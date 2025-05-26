@@ -1,0 +1,9 @@
+.box {
+    height: 700px;
+    width: 1200px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+
+
+}
